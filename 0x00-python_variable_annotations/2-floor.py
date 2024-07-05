@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 '''function takes a float and returns the floor of the float'''
 import math
 
