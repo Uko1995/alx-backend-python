@@ -1,4 +1,4 @@
-#!/urs/bin/env python3
+#!/usr/bin/env python3
 '''annotate the function below'''
 from typing import Union, Any, Mapping, TypeVar
 T = TypeVar('T')
